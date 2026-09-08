@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Publications
+permalink: /publications/
 ---
 
-# Preprints
+### Preprints
 
-# Peer-reviewed journal papers
+### Peer-reviewed journal papers
 
-# Peer-reviewed conference papers
+### Peer-reviewed conference papers
 
-# Peer-reviewed conference posters
+### Peer-reviewed conference posters
